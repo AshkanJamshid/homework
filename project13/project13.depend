@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703704725 source:d:\code-blocks.20.03.compiler.x64_yasdl.com\project13\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
